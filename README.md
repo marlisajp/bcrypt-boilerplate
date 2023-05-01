@@ -15,24 +15,24 @@ This boilerplate provides a simple and secure foundation for building a full-sta
 
 ## Get Started
 
-Clone the repository to your local machine:
-`git clone https://github.com/your-username/bcrypt-boilerplate.git`
-`cd bcrypt-boilerplate`
+- Clone the repository to your local machine:
+  `git clone https://github.com/your-username/bcrypt-boilerplate.git`
+  `cd bcrypt-boilerplate`
 
-Create a PostgreSQL database:
-`createdb bcrypt-boilerplate`
+- Create a PostgreSQL database:
+  `createdb bcrypt-boilerplate`
 
-Create a .env file in the root directory and add the following variables:
-`JWT_SECRET=your_jwt_secret`
-`ADMIN_PASSPHRASE=your_admin_passphrase`
-Replace your_jwt_secret and your_admin_passphrase with your own secret values.
+- Create a .env file in the root directory and add the following variables:
+  `JWT_SECRET=your_jwt_secret`
+  `ADMIN_PASSPHRASE=your_admin_passphrase`
+  Replace your_jwt_secret and your_admin_passphrase with your own secret values.
 
-Install the required dependencies:
-`npm install`
-Seed the database:
-`npm run seed`
-Start the development server:
-`npm run start-dev`
+- Install the required dependencies:
+  `npm install`
+- Seed the database:
+  `npm run seed`
+- Start the development server:
+  `npm run start-dev`
 
 The application will now be running on http://localhost:3000.
 
