@@ -1,8 +1,8 @@
-# React Boilerplate with Firebase Authentication
+# React Boilerplate with Bcrypt Authentication
 
 ## Get Started
 
-- createdb firebase-boilerplate
+- createdb bcrypt-boilerplate
 - create .env with JWT_SECRET & ADMIN_PASSPHRASE for creation of admin accounts
 - npm install
 - npm run seed
