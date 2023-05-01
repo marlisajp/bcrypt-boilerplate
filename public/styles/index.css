@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Source+Sans+Pro:ital,wght@0,200;0,400;0,700;1,200&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.app-container {
+  text-align: center;
+}
