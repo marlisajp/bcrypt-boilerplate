@@ -15,7 +15,7 @@ This boilerplate provides a simple and secure foundation for building a full-sta
 
 ## Get Started
 
-- Clone the repository to your local machine:
+- Fork & clone the repository to your local machine:
   `git clone https://github.com/your-username/bcrypt-boilerplate.git`
   `cd bcrypt-boilerplate`
 
